@@ -1,0 +1,13 @@
+.D {
+  border: 1px solid red;
+}
+
+.portraits img {
+  width: 15rem;
+  object-fit: cover;
+}
+
+.landscapes img {
+  height: 15rem;
+  object-fit: cover;
+}
